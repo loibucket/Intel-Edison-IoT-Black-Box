@@ -1,10 +1,12 @@
-// "Keeping It Down Pro"
-// grove grove starter sandbox
-// Build and run in Eclipse IDE with Intel IoT libraries
-// https://software.intel.com/en-us/articles/install-eclipse-ide-on-intel-iot-platforms
-//
 // Loi Cheng 2015
-//
+
+// IoT Black Box
+
+// Hardware Weekend Brooklyn 2015
+
+// Build and run in Eclipse IDE with Intel IoT libraries
+
+// https://software.intel.com/en-us/articles/install-eclipse-ide-on-intel-iot-platforms
 
 #include "ttp223.h"
 #include "grove.h"
